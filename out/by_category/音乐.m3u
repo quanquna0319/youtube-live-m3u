@@ -1,0 +1,8 @@
+﻿#EXTM3U
+#PLAYLIST:YouTube Live - 音乐
+#EXTINF:-1 tvg-id="Chillhop Music" tvg-name="Chillhop Music" tvg-logo="https://i.ytimg.com/vi/jiua2V9q9V0/maxresdefault.jpg" group-title="音乐",Chillhop Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/chillhop-music.m3u8
+#EXTINF:-1 tvg-id="Lofi Girl" tvg-name="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/4t4AQ15yj1M/maxresdefault.jpg" group-title="音乐",Lofi Girl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/lofi-girl.m3u8

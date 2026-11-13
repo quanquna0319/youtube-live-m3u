@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#PLAYLIST:YouTube Live - 财经
+#EXTINF:-1 tvg-id="CNBC Television" tvg-name="CNBC Television" tvg-logo="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg" group-title="财经",CNBC Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/cnbc-television.m3u8
+#EXTINF:-1 tvg-id="The Economic Times" tvg-name="The Economic Times" tvg-logo="https://i.ytimg.com/vi/D8fIL6QHJ7M/maxresdefault.jpg" group-title="财经",The Economic Times
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/the-economic-times.m3u8
+#EXTINF:-1 tvg-id="Yahoo Finance" tvg-name="Yahoo Finance" tvg-logo="https://i.ytimg.com/vi/NKyc_jumye0/maxresdefault.jpg" group-title="财经",Yahoo Finance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/yahoo-finance.m3u8

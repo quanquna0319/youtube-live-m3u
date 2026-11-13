@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#PLAYLIST:YouTube Live - 少儿
+#EXTINF:-1 tvg-id="Booba" tvg-name="Booba" tvg-logo="https://i.ytimg.com/vi/sP3t6ylZd5w/maxresdefault.jpg" group-title="少儿",Booba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/booba.m3u8

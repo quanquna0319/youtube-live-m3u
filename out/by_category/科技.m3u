@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#PLAYLIST:YouTube Live - 科技
+#EXTINF:-1 tvg-id="NASA Live" tvg-name="NASA Live" tvg-logo="https://i.ytimg.com/vi/ROboUHfPUrU/maxresdefault.jpg" group-title="科技",NASA Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/nasa-live.m3u8

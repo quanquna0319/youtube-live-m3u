@@ -1,0 +1,101 @@
+﻿#EXTM3U
+#PLAYLIST:YouTube Live
+#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://i.ytimg.com/vi/sq9r3gFKphU/maxresdefault.jpg" group-title="新闻",ABC News Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/abc-news-live.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="https://i.ytimg.com/vi/n7eQejkXbnM/maxresdefault.jpg" group-title="新闻",Al Arabiya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/al-arabiya.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg" group-title="新闻",Al Jazeera English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/al-jazeera-english.m3u8
+#EXTINF:-1 tvg-id="CBS News 24/7" tvg-name="CBS News 24/7" tvg-logo="https://i.ytimg.com/vi/b0ZhJhN_Sn8/maxresdefault.jpg" group-title="新闻",CBS News 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/cbs-news-24-7.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.ytimg.com/vi/-PWMxjBgr0k/maxresdefault.jpg" group-title="新闻",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/cna.m3u8
+#EXTINF:-1 tvg-id="DW News" tvg-name="DW News" tvg-logo="https://i.ytimg.com/vi/LuKwFajn37U/maxresdefault.jpg" group-title="新闻",DW News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/dw-news.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg" group-title="新闻",Euronews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/euronews.m3u8
+#EXTINF:-1 tvg-id="Firstpost" tvg-name="Firstpost" tvg-logo="https://i.ytimg.com/vi/JqmKcnaz5kI/maxresdefault.jpg" group-title="新闻",Firstpost
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/firstpost.m3u8
+#EXTINF:-1 tvg-id="India Today" tvg-name="India Today" tvg-logo="https://i.ytimg.com/vi/pAs_gP5yzzo/maxresdefault.jpg" group-title="新闻",India Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/india-today.m3u8
+#EXTINF:-1 tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-logo="https://i.ytimg.com/vi/65kQUIlyM-4/maxresdefault.jpg" group-title="新闻",NBC News NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/nbc-news-now.m3u8
+#EXTINF:-1 tvg-id="Republic World" tvg-name="Republic World" tvg-logo="https://i.ytimg.com/vi/OzjPUTYRF1E/maxresdefault.jpg" group-title="新闻",Republic World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/republic-world.m3u8
+#EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://i.ytimg.com/vi/fK9-RDoRrRs/maxresdefault.jpg" group-title="新闻",Reuters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/reuters.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://i.ytimg.com/vi/umLWFz4izTM/maxresdefault.jpg" group-title="新闻",Sky News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/sky-news.m3u8
+#EXTINF:-1 tvg-id="Sky News Arabia" tvg-name="Sky News Arabia" tvg-logo="https://i.ytimg.com/vi/eLi8wdBI69g/maxresdefault.jpg" group-title="新闻",Sky News Arabia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/sky-news-arabia.m3u8
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://i.ytimg.com/vi/JV5w1MhzcfQ/maxresdefault.jpg" group-title="新闻",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/trt-world.m3u8
+#EXTINF:-1 tvg-id="Times of India" tvg-name="Times of India" tvg-logo="https://i.ytimg.com/vi/Hz1J0eSrJyc/maxresdefault.jpg" group-title="新闻",Times of India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/times-of-india.m3u8
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="https://i.ytimg.com/vi/nmUWzIauy6w/maxresdefault.jpg" group-title="新闻",WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/wion.m3u8
+#EXTINF:-1 tvg-id="CNBC Television" tvg-name="CNBC Television" tvg-logo="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg" group-title="财经",CNBC Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/cnbc-television.m3u8
+#EXTINF:-1 tvg-id="The Economic Times" tvg-name="The Economic Times" tvg-logo="https://i.ytimg.com/vi/D8fIL6QHJ7M/maxresdefault.jpg" group-title="财经",The Economic Times
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/the-economic-times.m3u8
+#EXTINF:-1 tvg-id="Yahoo Finance" tvg-name="Yahoo Finance" tvg-logo="https://i.ytimg.com/vi/NKyc_jumye0/maxresdefault.jpg" group-title="财经",Yahoo Finance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/yahoo-finance.m3u8
+#EXTINF:-1 tvg-id="NASA Live" tvg-name="NASA Live" tvg-logo="https://i.ytimg.com/vi/ROboUHfPUrU/maxresdefault.jpg" group-title="科技",NASA Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/nasa-live.m3u8
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://i.ytimg.com/vi/9pNAtyGpHAM/maxresdefault.jpg" group-title="体育",UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/ufc.m3u8
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ytimg.com/vi/LRV7bYvJEf4/maxresdefault.jpg" group-title="体育",WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/wwe.m3u8
+#EXTINF:-1 tvg-id="talkSPORT" tvg-name="talkSPORT" tvg-logo="https://i.ytimg.com/vi/Y2XyLQFyms8/maxresdefault.jpg" group-title="体育",talkSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/talksport.m3u8
+#EXTINF:-1 tvg-id="Chillhop Music" tvg-name="Chillhop Music" tvg-logo="https://i.ytimg.com/vi/jiua2V9q9V0/maxresdefault.jpg" group-title="音乐",Chillhop Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/chillhop-music.m3u8
+#EXTINF:-1 tvg-id="Lofi Girl" tvg-name="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/4t4AQ15yj1M/maxresdefault.jpg" group-title="音乐",Lofi Girl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/lofi-girl.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://i.ytimg.com/vi/jP_sRaEUNgU/maxresdefault.jpg" group-title="纪录",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/discovery.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://i.ytimg.com/vi/tbLcWRxPel0/maxresdefault.jpg" group-title="纪录",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/national-geographic.m3u8
+#EXTINF:-1 tvg-id="Science Channel" tvg-name="Science Channel" tvg-logo="https://i.ytimg.com/vi/QOP5_mdJOF0/maxresdefault.jpg" group-title="纪录",Science Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/science-channel.m3u8
+#EXTINF:-1 tvg-id="Booba" tvg-name="Booba" tvg-logo="https://i.ytimg.com/vi/sP3t6ylZd5w/maxresdefault.jpg" group-title="少儿",Booba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/booba.m3u8
+#EXTINF:-1 tvg-id="EarthCam" tvg-name="EarthCam" tvg-logo="https://i.ytimg.com/vi/ZxCeWQ3Lcig/maxresdefault.jpg" group-title="生活",EarthCam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/earthcam.m3u8
+#EXTINF:-1 tvg-id="FOX Weather" tvg-name="FOX Weather" tvg-logo="https://i.ytimg.com/vi/wt6SIE7BXS8/maxresdefault.jpg" group-title="生活",FOX Weather
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/fox-weather.m3u8
+#EXTINF:-1 tvg-id="Skyline Webcams" tvg-name="Skyline Webcams" tvg-logo="https://i.ytimg.com/vi/kUfuwa8mDrA/maxresdefault.jpg" group-title="生活",Skyline Webcams
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/skyline-webcams.m3u8

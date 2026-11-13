@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 含出口 IP 与临时令牌的直链产物，不要入库
+out/youtube_live_direct.m3u
+temp.txt
+tools/pool.txt
+
+# 系统
+.DS_Store
+Thumbs.db

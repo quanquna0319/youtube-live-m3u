@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#PLAYLIST:YouTube Live - 体育
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://i.ytimg.com/vi/9pNAtyGpHAM/maxresdefault.jpg" group-title="体育",UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/ufc.m3u8
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ytimg.com/vi/LRV7bYvJEf4/maxresdefault.jpg" group-title="体育",WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/wwe.m3u8
+#EXTINF:-1 tvg-id="talkSPORT" tvg-name="talkSPORT" tvg-logo="https://i.ytimg.com/vi/Y2XyLQFyms8/maxresdefault.jpg" group-title="体育",talkSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://127.0.0.1:8899/yt/talksport.m3u8
