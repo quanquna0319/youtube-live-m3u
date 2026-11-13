@@ -2,6 +2,20 @@
 
 把 YouTube 上的公开直播频道整理成分门别类的 M3U 播放列表，VLC / PotPlayer / TiviMate / Kodi / 电视盒子都能直接用。
 
+当前状态：**33 路频道实测可播，覆盖 8 个分类**。
+
+## 快速安装
+
+```bash
+git clone https://github.com/quanquna0319/youtube-live-m3u.git
+cd youtube-live-m3u
+python -m venv .venv
+.venv/Scripts/python.exe -m pip install -r requirements.txt   # Windows
+# source .venv/bin/activate && pip install -r requirements.txt  # macOS / Linux
+```
+
+然后按下面「快速开始」两步走：先起代理，再加载 m3u。
+
 ## 参考的开源项目
 
 动手前对比了 GitHub 上几个主流方案，取长补短：
@@ -130,3 +144,11 @@ http://127.0.0.1:8899/yt/<频道slug>.m3u8
 ## 免责
 
 仅整理公开可访问的 YouTube 直播地址，不存储、不转播任何内容。频道的可用性、地区限制和版权均由 YouTube 与频道方决定。
+
+## Star 历史
+
+如果这个项目帮你解决了问题，欢迎点个 Star。
+
+## 更新记录
+
+- **2026-11-13** 首个版本：33 路实测可播，8 分类，代理与守护脚本齐备
